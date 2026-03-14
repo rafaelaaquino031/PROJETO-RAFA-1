@@ -1,7 +1,7 @@
 # Página Web - Curriculum Vitae
 
 Nome: Seu Nome  
-Matrícula: 123456
+Matrícula: 927843
 
 ## Descrição
 Este projeto consiste na criação de uma página web de currículo utilizando HTML e CSS.
