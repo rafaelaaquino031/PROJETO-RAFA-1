@@ -1,6 +1,6 @@
 # Página Web - Curriculum Vitae
 
-Nome: Seu Nome  
+Nome: Rafaela Aquino Barbosa  
 Matrícula: 927843
 
 ## Descrição
